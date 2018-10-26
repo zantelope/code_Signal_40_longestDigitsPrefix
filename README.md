@@ -12,6 +12,8 @@ longestDigitsPrefix(inputString) = "123".
 Couple new things here.
 
 ## re module: 
+
+>regular expression operations module
 >used to search within text and change using formal patterns. 
 
 >https://pymotw.com/2/re/
